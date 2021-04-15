@@ -18,7 +18,7 @@
         "modules": [
           {
             "name": "RedisBloom",
-            "args": "ERROR_RATE 0.00 INITIAL_SIZE 400"
+            "args": "ERROR_RATE 0.01 INITIAL_SIZE 400"
           },
           {
             "name": "RedisTimeSeries",
@@ -51,7 +51,7 @@
           "modules": [
             {
               "name": "RedisBloom",
-              "args": "ERROR_RATE 0.00 INITIAL_SIZE 400",
+              "args": "ERROR_RATE 0.01 INITIAL_SIZE 400",
               "version": "1.0.0"
             },
             {
@@ -87,7 +87,7 @@
           "modules": [
             {
               "name": "RedisBloom",
-              "args": "ERROR_RATE 0.00 INITIAL_SIZE 400",
+              "args": "ERROR_RATE 0.01 INITIAL_SIZE 400",
               "version": "1.0.0"
             },
             {
